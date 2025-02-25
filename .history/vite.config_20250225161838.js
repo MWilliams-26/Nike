@@ -9,6 +9,6 @@ export default defineConfig({
   },
   base: '/Nike/',
   build: {
-    sourcemap: true,
+    sour
   }
 })

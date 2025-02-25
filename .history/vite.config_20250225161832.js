@@ -8,7 +8,5 @@ export default defineConfig({
     port: 5173,
   },
   base: '/Nike/',
-  build: {
-    sourcemap: true,
-  }
+  
 })
