@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mwilliams-26.github.io/Nike-Spoof/",
+  "homepage": "https://mwilliams-26.github.io/Nike-S/",
   "scripts": {
     "dev": "vite --open",
     "build": "vite build",
