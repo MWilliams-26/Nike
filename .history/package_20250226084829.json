@@ -6,6 +6,7 @@
   "homepage": "https://mwilliams-26.github.io/Nike/",
   "scripts": {
     "dev": "vite --open",
+
     "build": "vite build && cp public/.nojekyll dist/",
     "lint": "eslint .",
     "preview": "vite preview",
