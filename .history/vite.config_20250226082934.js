@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     port: 5173,
   },
-  base: process.env.NODE_ENV === 'production' ? '/Nike/' : '/',
+  base: process.env.NODE_ENV ===
   build: {
     sourcemap: true,
   }
