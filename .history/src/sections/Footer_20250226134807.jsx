@@ -1,5 +1,4 @@
 import footerLogo from "../assets/images/footerLogo.svg"
-import { copyrightSign } from "../assets/icons"
 import { footerLinks, socialMedia } from "../constants"
 
 const Footer = () => {
@@ -48,8 +47,7 @@ const Footer = () => {
           <img src={copyrightSign} alt="copyright sign" width={20} height={20} className="rounded-full m-0" />
           <p>Copyright. All rights reserved.</p>
         </div>
-        <p className="font-montserrat cursor-pointer">Terms & Conditions</p>
-      </div>
+        
     </footer>
   )
 }

@@ -1,5 +1,5 @@
 import footerLogo from "../assets/images/footerLogo.svg"
-import { copyrightSign } from "../assets/icons"
+
 import { footerLinks, socialMedia } from "../constants"
 
 const Footer = () => {
