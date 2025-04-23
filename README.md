@@ -11,3 +11,5 @@ Check out the live demo here: [Nike App on GitHub Pages](https://mwilliams-26.gi
 3. Start development: `npm run dev`
 
 Happy coding! 🚀
+
+https://mwilliams-26.github.io/Nike/
